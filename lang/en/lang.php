@@ -1,6 +1,0 @@
-  
-<?php
-return [ 'welcome'=>'Welcome',
-'title'=>'My famaly',
-'body'=>"My family is small, but very strong and friendly. Everyone in our family loves and respects each other. There are five of us: Mom, Dad, Grandma, brother, and me. Each of us has a special role in the family. Here, for example, my mother keeps order in the house: so that everyone is fed, dressed for the weather, so that everything is in its place. Everyone knows that there is no closer and dearer person on earth than mother. My mother's name is Svetlana Alexandrovna. She is a translator, and before that she worked as an English teacher at the school. My mother is kind, smart and beautiful! She will always come to the rescue, tell me how to do the right thing, regret, support, but can also scold if I do something wrong. She loves me very much, and I love her too. Now I want to tell you about my dad. My dad is wonderful! All the hard men's work at home and in the country is on him. My father, Alexey Nikolaevich, works as a production manager in a digital printing house. He is very responsible and executive. But, despite the fact that he is very busy, Dad is always ready to help. Dad is my chief science adviser. Also, Dad is a driver. We love to drive with Dad in the car. My dad is the best!"];
-?>
